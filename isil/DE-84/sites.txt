@@ -1203,7 +1203,7 @@ http://www.tu-braunschweig.de/wbm/bibliothek
 52.2836989, 10.538747899999976
  
 @r1
-Institut für Marketing
+Institut für Marketing und Innovation
 Abt-Jerusalem-Str. 4
 38106 Braunschweig
 
