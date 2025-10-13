@@ -1282,7 +1282,7 @@ Bienroder Weg 97
 38106 Braunschweig
 
 +49 531 391-8808 (Sekr.)
-http://www.tu-braunschweig.de/schulpaedagogik/biblio
+https://www.tu-braunschweig.de/schulforschung/bibliothek
 
 52.2836989, 10.538747899999976
  
@@ -1303,7 +1303,7 @@ Bienroder Weg 97
 38106 Braunschweig
 
 +49 531 391-8845
-https://www.tu-braunschweig.de/schulpaedagogik/lernwerkstatt-schulpaedagogik
+https://www.tu-braunschweig.de/schulforschung/lernwerkstatt-schulpaedagogik
 
 52.2836989, 10.538747899999976
  
