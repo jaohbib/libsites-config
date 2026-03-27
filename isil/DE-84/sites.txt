@@ -544,7 +544,7 @@ Gaussstr. 17
 52.273196, 10.531084
  
 @b8
-Institut für Technische Chemie
+Institut für Nachhaltige Chemie
 Hagenring 30
 38106 Braunschweig
 
@@ -1239,7 +1239,7 @@ https://www.tu-braunschweig.de/winfo/team/sekretariat
 52.27303, 10.525139999999965
  
 @r5
-Institut für Unternehmensführung und Organisation
+Institut für Management
 Abt-Jerusalem-Str. 4
 38106 Braunschweig
 
@@ -1372,11 +1372,12 @@ https://www.tu-braunschweig.de/musik/bibliothek
 52.2752379, 10.53022379999993
  
 @sr
-Stabstelle Chancengleichheit
+Braunschweiger Zentrum für Gender  Studies
+Bibliothek Geschlechterforschung und Gleichstellung
 Bültenweg 17
 38106 Braunschweig
 
-+49 531 391-4545
++49 531 391-4591
 https://www.tu-braunschweig.de/chancengleichheit/bibliothek
 
 52.27442449999990, 10.533511699999963
@@ -1391,10 +1392,12 @@ Rebenring 33
  
 @sv
 Kooperationsstelle Hochschule-Gewerkschaften SON
-Bültenweg 17
+Pockelsstraße 7
 38106 Braunschweig
 
 +49 531 391-4280
+https://www.koop-son.de/aktuelles/news
+
 52.27611, 10.534080000000017
  
 @sx
