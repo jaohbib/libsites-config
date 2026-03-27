@@ -1372,11 +1372,12 @@ https://www.tu-braunschweig.de/musik/bibliothek
 52.2752379, 10.53022379999993
  
 @sr
-Stabstelle Chancengleichheit
+Braunschweiger Zentrum für Gender  Studies
+Bibliothek Geschlechterforschung und Gleichstellung
 Bültenweg 17
 38106 Braunschweig
 
-+49 531 391-4545
++49 531 391-4591
 https://www.tu-braunschweig.de/chancengleichheit/bibliothek
 
 52.27442449999990, 10.533511699999963
