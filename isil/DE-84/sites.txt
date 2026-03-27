@@ -544,7 +544,7 @@ Gaussstr. 17
 52.273196, 10.531084
  
 @b8
-Institut für Technische Chemie
+Institut für Nachhaltige Chemie
 Hagenring 30
 38106 Braunschweig
 
