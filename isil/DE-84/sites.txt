@@ -1239,7 +1239,7 @@ https://www.tu-braunschweig.de/winfo/team/sekretariat
 52.27303, 10.525139999999965
  
 @r5
-Institut für Unternehmensführung und Organisation
+Institut für Management
 Abt-Jerusalem-Str. 4
 38106 Braunschweig
 
