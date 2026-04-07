@@ -9,7 +9,7 @@ auskunft.ub@tu-ilmenau.de
 
 50.67961, 10.93450
 
-Mo-Fr 9:00-20:00, Sa 9:00-17:00
+Mo-Fr 9:00-22:00, Sa 9:00-17:00
 
 
 @mag
@@ -20,4 +20,5 @@ Diese Bestände sind nicht frei zugänglich. Bitte lösen Sie eine Magazinbestel
 @ha
 Sonderstandort
 Bitte wenden Sie sich an die Auskunft.
+
 
